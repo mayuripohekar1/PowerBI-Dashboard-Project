@@ -20,7 +20,8 @@ This project presents an **interactive Power BI dashboard** that analyzes credit
 - Marital status insight: Married customers generate **₹6.4M**, the highest revenue among all groups.
 
 ### **3. Expenditure & Payment Channel Analysis**
-- Top expenditure categories:
+- Top expenditure categories:<img width="1166" height="654" alt="Screenshot 2025-11-16 164858" src="https://github.com/user-attachments/assets/19adae5d-a359-4f77-9b90-285290053293" />
+
   - **Bills – ₹14M**
   - **Entertainment – ₹10M**
   - **Fuel – ₹9M**
@@ -50,5 +51,5 @@ This project presents an **interactive Power BI dashboard** that analyzes credit
 
 ---
 
-## 📷 **Dashboard Preview**
-*(Insert your dashboard image here)*  
+
+
